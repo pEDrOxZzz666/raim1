@@ -682,7 +682,7 @@ public class Proyecto_JBCN {
                             contPonenteMujer++;
                         }
                         break;
-                        //Si es hombre, incrementamos 'contHombre'    
+                        //Si es hombre, incrementamos 'contHombre'.    
                         case HOMBRE:
                         contHombre++;
                         //Si es hombre y ponente, incrementamos 'contPonenteHombre'

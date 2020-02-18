@@ -59,7 +59,7 @@ public class AppEac4P1 {
         boolean error=false;  
         
         
-        //entradaRaim("Garnatxa",  100);
+        entradaRaim("Garnatxa",  100);
               
         
         for(int i=0; i<mQuantitat.length; i++){
